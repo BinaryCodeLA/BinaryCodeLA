@@ -17,5 +17,5 @@ True team player with strengths in adaptability and accuracy.
 - PHP development
 - Node development
 - FrontEnd Web development
-- SQL platforms
+- SQL, Mysql, MariaDB platforms
 
