@@ -16,6 +16,7 @@ True team player with strengths in adaptability and accuracy.
 - Developing security plans
 - PHP development
 - Node development
-- FrontEnd Web development
+- FrontEnd Web development in Angular
+- HTML, CSS, Javascript
 - SQL, Mysql, MariaDB platforms
 
