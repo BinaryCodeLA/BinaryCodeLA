@@ -6,7 +6,7 @@ True team player with strengths in adaptability and accuracy.
 
 - 🔭 I’m currently working on Digital Angecy like Full-Stack Developer
 - 🌱 I’m currently learning Ionic and English
-- 💬 Contact me https://binarycode-la.com/
+
 
 ### Skills
 
