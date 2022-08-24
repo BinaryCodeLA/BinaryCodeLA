@@ -1,7 +1,7 @@
 ### Hi there My name is Lesner Villega 👋
 
 Talented Software Development experienced in producing and updating Financial systems.
-Excellent  demonstrated skills in HTML, JavaScript, CSS, TypeScript, C#, PHP, SQL. 
+Excellent  demonstrated skills in HTML, JavaScript, TypeScript, NodeJS, CSS, TypeScript, C#, SQL. 
 True team player with strengths in adaptability and accuracy.
 
 - 🔭 I’m currently working on Digital Angecy like Full-Stack Developer
@@ -10,8 +10,9 @@ True team player with strengths in adaptability and accuracy.
 
 ### Skills
 
-- Certified Application Security Engineer .NET
+- Certified Application Security Engineer
 - API design knowledge
+- NodeJS
 - Microsoft ASP.NET
 - Developing security plans
 - PHP development
