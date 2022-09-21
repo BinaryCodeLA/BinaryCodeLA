@@ -1,6 +1,6 @@
 ### Hi there My name is Lesner Villega 👋
 
-Software developer with more than 5 years of experience in the production and updating of systems.
+Software developer with 6 years of experience in the production and updating of systems.
 Proficient in several platforms and programming languages. Able to effectively self-manage independent projects. Good collaboration skills within a productive team.
 Technologies: .NET, SQL, NodeJS, PHP, Angular, Javascript, Firebase, HTML, CSS, AWS, GITHUB, Docker
 
